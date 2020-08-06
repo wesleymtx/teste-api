@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+input[type="text"]{
+    width: 200px;
+    height: 50px;
+    padding: 15px;
+    color: #ee8572;
+}
+input[type="submit"]{
+    background-color: #ee8572;
+    color: #ffe9c5;
+    padding: 0 40px;;
+    margin-left: 20px;
+    border: none;
+}
